@@ -9,5 +9,5 @@
 
 - Your local device should have python installed. If not download from here: https://www.python.org/downloads/
 - Download the entire .zip file.
-- Unzip it and run the snake-finalversion.py with python.
+- Unzip it and run the "snake-finalversion.py" file, with python.
 - If you cannot find python, search for IDLE in your windows start menu and open it manually from there. 
