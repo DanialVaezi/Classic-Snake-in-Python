@@ -4,6 +4,7 @@
 - Link to course: https://open.hpi.de/courses/pythonjunior-schule2022
 - I made use of the "turtle" library in python for base of the game. 
 - All the logic and functions are in one file and can be easily downloaded and run. 
+- Video preview of the game here: https://youtu.be/QTr0QV-T2yY
 
 --- INSTALLATION --
 
